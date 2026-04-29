@@ -6,9 +6,9 @@
 
 ---
 
-## April 2026 📅
+## April 2026
 
-| Date       | LC No | Problem | Difficulty | Topic | Approach | Time | Space | Solution |
-|------------|------|--------|-----------|------|----------|------|-------|----------|
-| 2026-04-28 | 28   | Find First Occurrence | Easy | Strings | Brute Force | O(n*m) | O(1) | [Code](./2026-04-28_28_Find.cpp) |
-| 2026-04-29 | 3225 | Maximum Score Grid | Hard | DP | DP + Prefix Sum | O(n^3) | O(n^3) | [Code](./2026-04-29_3225_Maximum_Score.cpp) |
+| Date       | LC No | Problem | Difficulty | Topic   | Approach                | Time     | Space   | Solution |
+|------------|------|--------|-----------|--------|-------------------------|---------|---------|----------|
+| 2026-04-28 | 28   | Find the Index of the First Occurrence in a String | Easy  | Strings | Brute Force (Substring) | O(n*m) | O(m)   | [Code](./April_2026/28.04.2026.cpp) |
+| 2026-04-29 | 3225 | Maximum Score From Grid Operations                | Hard  | DP      | DP + Prefix Sum         | O(n^3) | O(n^3) | [Code](./April_2026/29.04.2026.cpp) |
