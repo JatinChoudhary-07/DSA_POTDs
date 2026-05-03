@@ -20,3 +20,4 @@
 |------------|------|--------|-----------|--------|----------|------|------|----------|
 | 2026-05-01 | 396 | Rotate Function | Medium | Arrays | Math + Iterative DP | O(n) | O(1) | [Code](./May_2026/01.05.2026.cpp) |
 | 2026-05-02 | 788 | Rotated Digits | Medium | Math | Digit Simulation | O(n*log(n)) | O(1) | [Code](./May_2026/02.05.2026.cpp) |
+| 2026-05-03 | 796 | Rotate String | Easy | Strings | String Concatenation | O(n) | O(n) | [Code](./May_2026/03.05.2026.cpp) |
