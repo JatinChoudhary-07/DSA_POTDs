@@ -1,6 +1,5 @@
 # DSA POTDs
 
-![Total Problems](https://img.shields.io/badge/Problems-3-blue)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--30-green)
 ![Language](https://img.shields.io/badge/Language-C++-orange)
 
