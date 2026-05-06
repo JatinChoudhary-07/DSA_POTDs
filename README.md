@@ -21,3 +21,5 @@
 | 2026-05-02 | 788 | Rotated Digits | Medium | Math | Digit Simulation | O(n*log(n)) | O(1) | [Code](./May_2026/02.05.2026.cpp) |
 | 2026-05-03 | 796 | Rotate String | Easy | Strings | String Concatenation | O(n) | O(n) | [Code](./May_2026/03.05.2026.cpp) |
 | 2026-05-04 | 48 | Rotate Image | Medium | Arrays | Transpose + Reverse | O(n^2) | O(1) | [Code](./May_2026/04.05.2026.cpp) |
+| 2026-05-05 | 61 | Rotate List | Medium | Linked List | Circular Linked List | O(n) | O(1) | [Code](./May_2026/05.05.2026.cpp) |
+| 2026-05-06 | 1861 | Rotating the Box | Medium | Matrix | Rotate Matrix + Gravity Simulation | O(m*n) | O(m*n) | [Code](./May_2026/06.05.2026.cpp) |
