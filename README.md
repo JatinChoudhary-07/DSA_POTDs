@@ -28,3 +28,4 @@
 | 2026-05-09 | 1914 | Cyclically Rotating a Grid | Medium | Matrix | Layer Extraction + Rotation Simulation | O(m*n) | O(m*n) | [Code](./May_2026/09.05.2026.cpp) |
 | 2026-05-10 | 2770 | Maximum Number of Jumps to Reach the Last Index | Medium | DP | Recursion + Memoization | O(n^2) | O(n) | [Code](./May_2026/10.05.2026.cpp) |
 | 2026-05-11 | 2553 | Separate the Digits in an Array | Easy | Arrays | Digit Extraction | O(n*log10(max(nums[i]))) | O(n) | [Code](./May_2026/11.05.2026.cpp) |
+| 2026-05-12 | 1665 | Minimum Initial Energy to Finish Tasks | Hard | Greedy | Sorting + Binary Search | O(n log n) | O(1) | [Code](./May_2026/12.05.2026.cpp) |
