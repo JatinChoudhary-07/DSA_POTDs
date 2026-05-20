@@ -29,3 +29,11 @@
 | 2026-05-10 | 2770 | Maximum Number of Jumps to Reach the Last Index | Medium | DP | Recursion + Memoization | O(n^2) | O(n) | [Code](./May_2026/10.05.2026.cpp) |
 | 2026-05-11 | 2553 | Separate the Digits in an Array | Easy | Arrays | Digit Extraction | O(n*log10(max(nums[i]))) | O(n) | [Code](./May_2026/11.05.2026.cpp) |
 | 2026-05-12 | 1665 | Minimum Initial Energy to Finish Tasks | Hard | Greedy | Sorting + Binary Search | O(n log n) | O(1) | [Code](./May_2026/12.05.2026.cpp) |
+| 2026-05-13 | 1674 | Minimum Moves to Make Array Complementary | Medium | Prefix Sum | Difference Array | O(n + limit) | O(limit) | [Code](./May_2026/13.05.2026.cpp) |
+| 2026-05-14 | 2784 | Check if Array is Good | Easy | Arrays | Sorting | O(n log n) | O(1) | [Code](./May_2026/14.05.2026.cpp) |
+| 2026-05-15 | 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search | Binary Search | O(log n) | O(1) | [Code](./May_2026/15.05.2026.cpp) |
+| 2026-05-16 | 154 | Find Minimum in Rotated Sorted Array II | Hard | Binary Search | Binary Search | O(log n) avg, O(n) worst | O(1) | [Code](./May_2026/16.05.2026.cpp) |
+| 2026-05-17 | 1306 | Jump Game III | Medium | Graph | DFS | O(n) | O(n) | [Code](./May_2026/17.05.2026.cpp) |
+| 2026-05-18 | 1345 | Jump Game IV | Hard | Graph | BFS + HashMap | O(n) | O(n) | [Code](./May_2026/18.05.2026.cpp) |
+| 2026-05-19 | 2540 | Minimum Common Value | Easy | Two Pointers | Two Pointers | O(n + m) | O(1) | [Code](./May_2026/19.05.2026.cpp) |
+| 2026-05-20 | 2657 | Find the Prefix Common Array of Two Arrays | Medium | Arrays | Frequency Counting | O(n) | O(n) | [Code](./May_2026/20.05.2026.cpp) |
