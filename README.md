@@ -37,3 +37,6 @@
 | 2026-05-18 | 1345 | Jump Game IV | Hard | Graph | BFS + HashMap | O(n) | O(n) | [Code](./May_2026/18.05.2026.cpp) |
 | 2026-05-19 | 2540 | Minimum Common Value | Easy | Two Pointers | Two Pointers | O(n + m) | O(1) | [Code](./May_2026/19.05.2026.cpp) |
 | 2026-05-20 | 2657 | Find the Prefix Common Array of Two Arrays | Medium | Arrays | Frequency Counting | O(n) | O(n) | [Code](./May_2026/20.05.2026.cpp) |
+| 2026-05-21 | 3043 | Find the Length of the Longest Common Prefix | Medium | Hashing | Store Prefixes Using HashSet | O(n * d + m * d) | O(n * d) | [Code](./May_2026/21.05.2026.cpp) |
+| 2026-05-22 | 33 | Search in Rotated Sorted Array | Medium | Binary Search | Modified Binary Search | O(log n) | O(1) | [Code](./May_2026/22.05.2026.cpp) |
+| 2026-05-23 | 1752 | Check if Array Is Sorted and Rotated | Easy | Arrays | Count Rotation Break Points | O(n) | O(1) | [Code](./May_2026/23.05.2026.cpp) |
