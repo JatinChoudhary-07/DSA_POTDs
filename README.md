@@ -25,14 +25,14 @@ DSA_POTDs/
 │
 ├── README.md
 │
-├── April_2026/
+├── 2026_04_April/
 │   ├── README.md
 │   └── *.cpp
 │
-├── May_2026/
+├── 2026_05_May/
 │   ├── README.md
 │   └── *.cpp
 │
-└── June_2026/
+└── 2026_06_June/
     ├── README.md
     └── *.cpp
