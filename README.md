@@ -1,6 +1,5 @@
 # DSA POTDs
-
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--06-green)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--07-green)
 ![Language](https://img.shields.io/badge/Language-C++-orange)
 
 ---
